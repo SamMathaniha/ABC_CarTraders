@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageCarAddNewCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageCarsDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageCarViewDeleteUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageHisProfileDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageOrderDetailsCheckform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageOrderDoPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManagePartsAddNewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManagePartsDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManagePartsViewDeleteProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManagePaymentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManagePaymentDetailsViewUpdateDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageReportGenarateCars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageReportGenarateCarsParts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageReportGenarateOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageReportGenaratePayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageReportGenarateUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageReportGenaratingDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageUsersDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientMyProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientOrderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientViewCarDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientViewCarOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManageOrderDetailsDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientViewPartsDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientViewPartsOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPasswordUpdatePw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

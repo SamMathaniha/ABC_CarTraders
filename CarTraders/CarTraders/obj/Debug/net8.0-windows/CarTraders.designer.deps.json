@@ -1,0 +1,447 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ADGV/0.1.0.10": {
+        "runtime": {
+          "lib/net40/AdvancedDataGridView.dll": {
+            "assemblyVersion": "0.1.0.10",
+            "fileVersion": "0.1.0.10"
+          }
+        },
+        "resources": {
+          "lib/net40/fr/AdvancedDataGridView.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net40/ru/AdvancedDataGridView.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Microsoft.Win32.Registry/4.7.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
+            "assemblyVersion": "4.1.3.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.3.0",
+            "fileVersion": "4.700.19.56404"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.3.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+        "dependencies": {
+          "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x86.runtime.native.System.Data.SqlClient.sni": "4.4.0"
+        }
+      },
+      "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/sni.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/sni.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x86/native/sni.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "System.Data.SqlClient/4.8.6": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0",
+          "runtime.native.System.Data.SqlClient.sni": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "assemblyVersion": "4.6.1.6",
+            "fileVersion": "4.700.23.52603"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.6",
+            "fileVersion": "4.700.23.52603"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.6",
+            "fileVersion": "4.700.23.52603"
+          }
+        }
+      },
+      "System.Drawing.Common/8.0.2": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.224.6803"
+          }
+        }
+      },
+      "System.Security.AccessControl/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.AccessControl.dll": {
+            "assemblyVersion": "4.1.3.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.3.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {
+            "assemblyVersion": "4.1.3.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.3.0",
+            "fileVersion": "4.700.19.56404"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.3.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "Vintasoft.Imaging/12.3.4.1": {
+        "dependencies": {
+          "Vintasoft.Shared": "4.1.2.1"
+        },
+        "runtime": {
+          "lib/net8.0/Vintasoft.Imaging.dll": {
+            "assemblyVersion": "12.3.4.1",
+            "fileVersion": "12.3.4.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Annotation/12.3.4.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.3.4.1",
+          "Vintasoft.Shared": "4.1.2.1"
+        },
+        "runtime": {
+          "lib/net8.0/Vintasoft.Imaging.Annotation.dll": {
+            "assemblyVersion": "12.3.4.1",
+            "fileVersion": "12.3.4.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Annotation.Pdf/12.3.4.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.3.4.1",
+          "Vintasoft.Imaging.Annotation": "12.3.4.1",
+          "Vintasoft.Imaging.Pdf": "9.3.4.1",
+          "Vintasoft.Shared": "4.1.2.1"
+        },
+        "runtime": {
+          "lib/net8.0/Vintasoft.Imaging.Annotation.Pdf.dll": {
+            "assemblyVersion": "12.3.4.1",
+            "fileVersion": "12.3.4.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Annotation.Pdf.UI/12.3.4.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.3.4.1",
+          "Vintasoft.Imaging.Annotation": "12.3.4.1",
+          "Vintasoft.Imaging.Annotation.Pdf": "12.3.4.1",
+          "Vintasoft.Imaging.Gdi": "12.3.4.1",
+          "Vintasoft.Imaging.Pdf": "9.3.4.1",
+          "Vintasoft.Imaging.Pdf.UI": "9.3.4.1",
+          "Vintasoft.Shared": "4.1.2.1"
+        },
+        "runtime": {
+          "lib/net8.0/Vintasoft.Imaging.Annotation.Pdf.UI.dll": {
+            "assemblyVersion": "12.3.4.1",
+            "fileVersion": "12.3.4.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Gdi/12.3.4.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.3.4.1",
+          "Vintasoft.Shared": "4.1.2.1"
+        },
+        "runtime": {
+          "lib/net8.0/Vintasoft.Imaging.Gdi.dll": {
+            "assemblyVersion": "12.3.4.1",
+            "fileVersion": "12.3.4.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Pdf/9.3.4.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.3.4.1",
+          "Vintasoft.Shared": "4.1.2.1"
+        },
+        "runtime": {
+          "lib/net8.0/Vintasoft.Imaging.Pdf.dll": {
+            "assemblyVersion": "9.3.4.1",
+            "fileVersion": "9.3.4.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Pdf.UI/9.3.4.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.3.4.1",
+          "Vintasoft.Imaging.Gdi": "12.3.4.1",
+          "Vintasoft.Imaging.Pdf": "9.3.4.1",
+          "Vintasoft.Imaging.UI": "12.3.4.1",
+          "Vintasoft.Shared": "4.1.2.1"
+        },
+        "runtime": {
+          "lib/net8.0/Vintasoft.Imaging.Pdf.UI.dll": {
+            "assemblyVersion": "9.3.4.1",
+            "fileVersion": "9.3.4.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.UI/12.3.4.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.3.4.1",
+          "Vintasoft.Imaging.Gdi": "12.3.4.1",
+          "Vintasoft.Shared": "4.1.2.1"
+        },
+        "runtime": {
+          "lib/net8.0/Vintasoft.Imaging.UI.dll": {
+            "assemblyVersion": "12.3.4.1",
+            "fileVersion": "12.3.4.1"
+          }
+        }
+      },
+      "Vintasoft.Shared/4.1.2.1": {
+        "runtime": {
+          "lib/net8.0/Vintasoft.Shared.dll": {
+            "assemblyVersion": "4.1.2.1",
+            "fileVersion": "4.1.2.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADGV/0.1.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-leJ7YvECR+X/Sx5TS4Y5QETpRL4V08DMuje28PxHmAt9s+oVfEfmjVKzDZLkVfHZGcXJBMFjVRYeN3dfFl+s9A==",
+      "path": "adgv/0.1.0.10",
+      "hashPath": "adgv.0.1.0.10.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KSrRMb5vNi0CWSGG1++id2ZOs/1QhRqROt+qgbEAdQuGjGrFcl4AOl4/exGPUYz2wUnU42nvJqon1T3U0kPXLA==",
+      "path": "microsoft.win32.registry/4.7.0",
+      "hashPath": "microsoft.win32.registry.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9opKRyOKMCi2xJ7Bj7kxtZ1r9vbzosMvRrdEhVhDz8j8MoBGgB+WmC94yH839NPH+BclAjtQ/pyagvi/8gDLkw==",
+      "path": "microsoft.win32.systemevents/8.0.0",
+      "hashPath": "microsoft.win32.systemevents.8.0.0.nupkg.sha512"
+    },
+    "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9kyFSIdN3T0qjDQ2R0HRXYIhS3l5psBzQi6qqhdLz+SzFyEy4sVxNOke+yyYv8Cu8rPER12c3RDjLT8wF3WBYQ==",
+      "path": "runtime.native.system.data.sqlclient.sni/4.7.0",
+      "hashPath": "runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512"
+    },
+    "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LbrynESTp3bm5O/+jGL8v0Qg5SJlTV08lpIpFesXjF6uGNMWqFnUQbYBJwZTeua6E/Y7FIM1C54Ey1btLWupdg==",
+      "path": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-38ugOfkYJqJoX9g6EYRlZB5U2ZJH51UP8ptxZgdpS07FgOEToV+lS11ouNK2PM12Pr6X/PpT5jK82G3DwH/SxQ==",
+      "path": "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
+      "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "System.Data.SqlClient/4.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2Ij/LCaTQRyAi5lAv7UUTV9R2FobC8xN9mE0fXBZohum/xLl8IZVmE98Rq5ugQHjCgTBRKqpXRb4ORulRdA6Ig==",
+      "path": "system.data.sqlclient/4.8.6",
+      "hashPath": "system.data.sqlclient.4.8.6.nupkg.sha512"
+    },
+    "System.Drawing.Common/8.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oDedGrYVyzvtGZhgtURpeneHq9D3HQtrvU7q6iCRa+BbIXvTZayGFo0iK3b7qHrwQ/OOAn9B0ghzQH6AbW5LHg==",
+      "path": "system.drawing.common/8.0.2",
+      "hashPath": "system.drawing.common.8.0.2.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JECvTt5aFF3WT3gHpfofL2MNNP6v84sxtXxpqhLBCcDRzqsPBmHhQ6shv4DwwN2tRlzsUxtb3G9M3763rbXKDg==",
+      "path": "system.security.accesscontrol/4.7.0",
+      "hashPath": "system.security.accesscontrol.4.7.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
+      "path": "system.security.principal.windows/4.7.0",
+      "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "Vintasoft.Imaging/12.3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-li6NQV25IZY5Jr5gKOM9ZPDB19y+ckTzNKZvT9cEy0d7xWfdqH2CxALMOXUFJd0kCowc5QNAatjcQwRRyf6qWw==",
+      "path": "vintasoft.imaging/12.3.4.1",
+      "hashPath": "vintasoft.imaging.12.3.4.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Annotation/12.3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iP1g9vsSka12/yHirTAmbqHYIOubR4Dmp5coOJBZyvefZmKIJMAxqUbBxPhxoeta2F5yYeSYU1DcaMcTnhSE7A==",
+      "path": "vintasoft.imaging.annotation/12.3.4.1",
+      "hashPath": "vintasoft.imaging.annotation.12.3.4.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Annotation.Pdf/12.3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8/agK6PPQp+nTSs3FSn+/nB6rw3Uo3BZwBnEqNCShWbJKrYHyiQj/kXBmHQ4ZqGHksTK8gBD3V1/Z76xLmhUtg==",
+      "path": "vintasoft.imaging.annotation.pdf/12.3.4.1",
+      "hashPath": "vintasoft.imaging.annotation.pdf.12.3.4.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Annotation.Pdf.UI/12.3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aQ8Lki7a0vEDOxjbevjUDqtoK+pqZ6wBhQXlTr+ACkQAQY+fs1mz1dklRaMwSK5rARHQbe992mYX3ThNzcl18Q==",
+      "path": "vintasoft.imaging.annotation.pdf.ui/12.3.4.1",
+      "hashPath": "vintasoft.imaging.annotation.pdf.ui.12.3.4.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Gdi/12.3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vdb9aCDpRT27Hb2xoGl3wgHUR0WiHRVZa6suF9A/orblEPfSHrJGQx4JR05qd48TfMMe4U2g8SKTwHcXFzGh4Q==",
+      "path": "vintasoft.imaging.gdi/12.3.4.1",
+      "hashPath": "vintasoft.imaging.gdi.12.3.4.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Pdf/9.3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OPXZfWl/2T6oVMEXdg+lk9IuzpVg12LxCkzSKjyj4WlFI730zVihlS8kOMuL1zg8QKZmDVOYaAZhhokfvZek2g==",
+      "path": "vintasoft.imaging.pdf/9.3.4.1",
+      "hashPath": "vintasoft.imaging.pdf.9.3.4.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Pdf.UI/9.3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eGqXCjuTACL1TSOdyCgVzLTLrObOd+ae4Jt5rHvJfuUaPQAvs636n1xsXetVX7rNkexz4UE8XomWxN3z6rOo3A==",
+      "path": "vintasoft.imaging.pdf.ui/9.3.4.1",
+      "hashPath": "vintasoft.imaging.pdf.ui.9.3.4.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.UI/12.3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NRwp95+a/OY1KaJayvSfY9rXI2ikI6XDxZ0lmz8UP0+UVrv3SHX4OoeJ+62s2bx3C1ErZe2K5oULWpWKxxa4TQ==",
+      "path": "vintasoft.imaging.ui/12.3.4.1",
+      "hashPath": "vintasoft.imaging.ui.12.3.4.1.nupkg.sha512"
+    },
+    "Vintasoft.Shared/4.1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9QE7XTRO1eeVYXwCVrdS+zyjstk56a4ySr/gXPSBXTA40w9V9Y8Xty4n8EQ5vS+sCtu50cvDq1IaYLDD5ZnLtQ==",
+      "path": "vintasoft.shared/4.1.2.1",
+      "hashPath": "vintasoft.shared.4.1.2.1.nupkg.sha512"
+    }
+  }
+}

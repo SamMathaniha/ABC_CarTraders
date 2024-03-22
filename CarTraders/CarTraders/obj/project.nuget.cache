@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "dgSpecHash": "S8M8CbqpGft+npjLpr3kyMXj6KKcEayS1klANUKvLK4nNv02yK/GZoVoyhHtTRrh9U7JP+VGR4mDaypAAfD6Ag==",
+  "success": true,
+  "projectFilePath": "E:\\My projects\\C#\\Car Traders\\CarTraders\\CarTraders\\CarTraders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\adgv\\0.1.0.10\\adgv.0.1.0.10.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\vintasoft.imaging\\12.3.4.1\\vintasoft.imaging.12.3.4.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\vintasoft.imaging.annotation\\12.3.4.1\\vintasoft.imaging.annotation.12.3.4.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\vintasoft.imaging.annotation.pdf\\12.3.4.1\\vintasoft.imaging.annotation.pdf.12.3.4.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\vintasoft.imaging.annotation.pdf.ui\\12.3.4.1\\vintasoft.imaging.annotation.pdf.ui.12.3.4.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\vintasoft.imaging.gdi\\12.3.4.1\\vintasoft.imaging.gdi.12.3.4.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\vintasoft.imaging.pdf\\9.3.4.1\\vintasoft.imaging.pdf.9.3.4.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\vintasoft.imaging.pdf.ui\\9.3.4.1\\vintasoft.imaging.pdf.ui.9.3.4.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\vintasoft.imaging.ui\\12.3.4.1\\vintasoft.imaging.ui.12.3.4.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\vintasoft.shared\\4.1.2.1\\vintasoft.shared.4.1.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ADGV 0.1.0.10' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ADGV",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\CarTraders.exe
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\CarTraders.deps.json
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\CarTraders.runtimeconfig.json
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\CarTraders.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\CarTraders.pdb
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.csproj.AssemblyReference.cache
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.FrmLoginPage.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.RegisterPage.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.csproj.GenerateResource.cache
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.GeneratedMSBuildEditorConfig.editorconfig
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AssemblyInfoInputs.cache
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AssemblyInfo.cs
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.csproj.CoreCompileInputs.cache
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.csproj.CopyComplete
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\refint\CarTraders.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.pdb
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.genruntimeconfig.cache
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\ref\CarTraders.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminDashboard.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ForgotPassword.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ForgotPasswordUpdatePw.resources
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\CarTraders.exe
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\CarTraders.deps.json
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\CarTraders.runtimeconfig.json
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\CarTraders.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\CarTraders.pdb
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.csproj.AssemblyReference.cache
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminDashboard.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ForgotPassword.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ForgotPasswordUpdatePw.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.FrmLoginPage.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.RegisterPage.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.csproj.GenerateResource.cache
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.GeneratedMSBuildEditorConfig.editorconfig
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AssemblyInfoInputs.cache
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AssemblyInfo.cs
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.csproj.CoreCompileInputs.cache
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.csproj.CopyComplete
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.dll
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\refint\CarTraders.dll
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.pdb
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.genruntimeconfig.cache
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\ref\CarTraders.dll
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.Properties.Resources.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageCarAddNewCar.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageCarsDashboard.resources
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\AdvancedDataGridView.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\fr\AdvancedDataGridView.resources.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\ru\AdvancedDataGridView.resources.dll
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageCarViewDeleteUpdate.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManagePartsAddNewProduct.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManagePartsDashboard.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManagePartsViewDeleteProduct.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageUsersDashboard.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientDashboard.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientViewCarDetails.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientViewCarOrder.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientViewPartsDetails.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientViewPartsOrder.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientMyProfile.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageOrderDetailsDashboard.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientOrderDetails.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageOrderDetailsCheckform.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageOrderDoPayment.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManagePaymentDashboard.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManagePaymentDetailsViewUpdateDelete.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenarateUsers.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenaratingDashBoard.resources
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Annotation.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Annotation.Pdf.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Annotation.Pdf.UI.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Gdi.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Pdf.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Pdf.UI.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.UI.dll
+F:\A\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Shared.dll
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenaratePayments.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenarateOrders.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenarateCars.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenarateCarsParts.resources
+F:\A\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageHisProfileDetails.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\AdvancedDataGridView.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Annotation.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Annotation.Pdf.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Annotation.Pdf.UI.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Gdi.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Pdf.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.Pdf.UI.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Imaging.UI.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\Vintasoft.Shared.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\fr\AdvancedDataGridView.resources.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\bin\Debug\net8.0-windows\ru\AdvancedDataGridView.resources.dll
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageCarAddNewCar.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageCarsDashboard.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageCarViewDeleteUpdate.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageHisProfileDetails.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageOrderDetailsCheckform.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageOrderDetailsDashboard.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageOrderDoPayment.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManagePartsAddNewProduct.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManagePartsDashboard.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManagePartsViewDeleteProduct.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManagePaymentDashboard.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManagePaymentDetailsViewUpdateDelete.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenarateCars.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenarateCarsParts.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenarateOrders.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenaratePayments.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenarateUsers.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageReportGenaratingDashBoard.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.AdminManageUsersDashboard.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientDashboard.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientMyProfile.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientOrderDetails.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientViewCarDetails.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientViewCarOrder.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientViewPartsDetails.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.ClientViewPartsOrder.resources
+E:\My projects\C#\Car Traders\CarTraders\CarTraders\obj\Debug\net8.0-windows\CarTraders.Properties.Resources.resources
